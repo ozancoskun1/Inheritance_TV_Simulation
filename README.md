@@ -1,2 +1,33 @@
-# Inheritance_TV_Simulation
-This project was developed to practice and demonstrate the **Inheritance** concept in Java as part of Object-Oriented Programming (OOP).  The project models a basic TV system where a `SmartTv` class extends a base `Television` class. It showcases parent–child class relationships, the use of the `extends` keyword, constructors, and method overriding
+# ☕ Java Inheritance TV Project
+
+This is a small Java practice project created while learning
+Object-Oriented Programming concepts, specifically **Inheritance**.
+
+The purpose of this repository is to keep learning exercises organized,
+version-controlled, and accessible in one place instead of leaving them
+unused on a local machine.
+
+The project demonstrates a simple TV system with different channel types
+inheriting from a common base class.
+
+---
+
+## Concepts Covered
+
+- Java Classes and Objects
+- Inheritance (`extends`)
+- Method Overriding
+- Basic Console Interaction
+
+---
+
+## Notes
+
+This is a **learning and practice repository**, not a production-ready application.
+The focus is on understanding core Java concepts rather than building a complete system.
+
+---
+
+## Author
+
+Ozan Çoşkun
